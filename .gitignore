@@ -1,5 +1,7 @@
 # History files
 .Rhistory
+specdata/
+hw1_data.csv
 
 # Example code in package build process
 *-Ex.R
